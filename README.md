@@ -42,7 +42,7 @@ Valid command line arguments are:
 ```
 
 
-A few examples of the resulting files. Cross your eyes and try to make the two sides overlap.
+A few examples of what a resulting file could look like. To see the 3D effect, cross your eyes and try to make the two sides overlap.
 ![Young deer with its head through a fence](examples/HNI_0004.JPG)
 ![Small frog statues in a stack of cups](examples/HNI_0078.JPG)
 ![View of a japanese shrine](examples/HNI_0081.JPG)
