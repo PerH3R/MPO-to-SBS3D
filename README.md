@@ -1,6 +1,6 @@
 # MPO-to-SBS3D
 A script for converting (sub)directories with stereo 3D .MPO files to side-by-side .JPGs suited for cross-eye 3d viewing.
-Made with the Nintendo 3DS in mind but probably also works sources. If an .MPO from another source gives an inverted 3d effect, swap the left and right image in the code.
+Made with the Nintendo 3DS in mind but probably also works on other sources. If an .MPO from another source gives an inverted 3d effect, swap the left and right image in the code.
 
 This script keeps maintains the original file structure in the result directory and transfers the exif data from the original files. 
 This is an example if run from the N3DS SD card:
