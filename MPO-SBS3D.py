@@ -44,7 +44,7 @@ def list_files_recursive(path, MPOfiles) -> list:
 
 def save_image(ogFilepath, imageData, exifData):
     # construct filepath for converted image
-    newFilepath = ogFilepath.split(os.sep)#[-1][5:8]
+    newFilepath = ogFilepath.split(os.sep)
     newFilepath[0] = argList[1]
     newFilepath[-1] = newFilepath[-1][:-4] + ".JPG"
     newFilepath = os.path.join(*newFilepath)
@@ -85,3 +85,4 @@ def main():
 main()
 
 print("done")
+
